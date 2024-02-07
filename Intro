@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Introduction</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <p>Name: Daniel</p>
+  <p>Date: 2/3/2024</p>
+  <p>Course: HTML</p>
+  <p>Instructor: Kadilov</p>
+  <hr>
+
+  <p>Degree: Computer Science</p>
+  <p>Experience: Python</p>
+  <p>Fun Fact: I like to play soccer and basketball</p>
+  <hr>
+
+  <p>Questions: None</p>
+
+</body>
+</html>
